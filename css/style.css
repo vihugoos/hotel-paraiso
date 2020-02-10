@@ -167,7 +167,7 @@ header li:last-child {
 .conheca-o-hotel .grid {
     width: 100%;
     display: flex;
-    flex-wrap: wrap;;
+    flex-wrap: wrap;              
 }
 
 .conheca-o-hotel .grid li {
@@ -195,6 +195,11 @@ header li:last-child {
 
 }
 
+@media (max-width: 700px) {
+    .conheca-o-hotel .grid li {
+        padding: 20px 0;
+    }   
+}
 
 
 
