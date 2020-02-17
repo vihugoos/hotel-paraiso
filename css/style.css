@@ -139,7 +139,7 @@ header li:last-child {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 100px 50px;
+    padding: 70px 50px;
 }
 
 .conheca-o-hotel h3 {
@@ -160,7 +160,7 @@ header li:last-child {
     width: 200px;
     height: 2px;
     background-color:#191c03;
-    margin-bottom: 70px;
+    margin-bottom: 40px;
     border: none;
 }
 
@@ -208,7 +208,7 @@ header li:last-child {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 100px 50px;
+    padding: 70px 50px 30px;
     background-color: #191c03;
     margin-top: -1%;
 }
@@ -231,7 +231,7 @@ header li:last-child {
     width: 200px;
     height: 2px;
     background-color:#fff;
-    margin-bottom: 70px;
+    margin-bottom: 40px;
     border: none;
 }
 
@@ -278,7 +278,7 @@ header li:last-child {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 80px 50px;
+    padding: 70px 50px;
 }
 
 .newsletter h3 {
@@ -299,7 +299,7 @@ header li:last-child {
     width: 200px;
     height: 2px;
     background-color:#c3c63b;
-    margin-bottom: 70px;
+    margin-bottom: 45px;
     border: none;
 }
 
@@ -368,7 +368,7 @@ footer ul li:last-child {
 
 footer ul li a {
     color: #c3c63b;    
-    font-size: 2rem;
+    font-size: 1.5rem;
     margin-right: 8px;
 }
 
