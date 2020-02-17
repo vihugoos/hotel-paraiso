@@ -93,7 +93,7 @@ header li:last-child {
 .hero h1 {
     font-size: 3.2rem;
     margin-bottom: 15px;
-
+    margin-top: 40px;
 }
 
 .hero h3 {
